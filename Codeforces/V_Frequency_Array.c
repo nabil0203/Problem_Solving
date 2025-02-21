@@ -15,7 +15,8 @@ int main()
     {
         scanf("%d", &x[i]);
  
-        f[x[i]] = f[x[i]] + 1;
+        // f[x[i]] = f[x[i]] + 1;
+        f[x[i]] += 1;
     }
  
  
