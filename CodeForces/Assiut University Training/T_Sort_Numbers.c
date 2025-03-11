@@ -1,6 +1,8 @@
 // https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
 
+
 // both works
+
 
 // #include <stdio.h>
 // int main()
