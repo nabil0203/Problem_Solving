@@ -1,0 +1,10 @@
+---------------------------------------------------------
+
+https://codeforces.com/group/MWSDmqGsZm/contests
+
+---------------------------------------------------------
+
+
+This provides problem-solving sheets for newcomers on Codeforces.
+All these Sheet covers various topics like arrays, recursion, strings, functions, and geometry.
+The problems are categorized by difficulty levels such as easy, medium, and hard.
